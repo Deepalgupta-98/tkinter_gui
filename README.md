@@ -1,1 +1,2 @@
 # tkinter_gui
+It creates a tkinter GUI application with various buttons, each associated with specific actions. When any of the buttons are clicked, the associated action or function is executed. The application provides various features and functionalities, including opening applications(like chrome , notepad), sending SMS, performing web searches using voice input, working with AWS services like EC2 and S3, capturing images from your webcam and sending an whatsapp message by a choice of user phone number and message (they want to print ) etc.
